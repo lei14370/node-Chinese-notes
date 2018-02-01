@@ -1,1 +1,3 @@
-# node-Chinese-notes
+## node中文笔记
+自己学习node的一些笔记，供各位和我一样的node初学爱好者一些参考。
+本笔记适用于node -v 8.9.4 版本
